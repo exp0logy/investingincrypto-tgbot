@@ -1,0 +1,5 @@
+Telethon~=1.21.1
+Discord.py~=1.7.2
+
+binance~=0.3
+requests~=2.25.1
